@@ -1,0 +1,7 @@
+id = "edusites"
+name = "EduSites"
+version = "1.0.0"
+schema_version = 1
+authors = ["Eduardo <eduardo@lecdt.com>"]
+description = "Tema EduSites para o Zed — variantes escura e clara baseadas na identidade visual da EduSites."
+repository = "https://github.com/eduardolecdt/edusites-theme-zed"
