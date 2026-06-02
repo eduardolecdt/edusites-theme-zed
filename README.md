@@ -1,32 +1,32 @@
 # EduSites Theme — Zed
 
-Tema oficial da **EduSites** para o editor [Zed](https://zed.dev), com variantes **escura** e **clara**. A paleta é derivada diretamente da identidade visual da EduSites (o roxo `#6217EC` como cor de marca).
+Official **EduSites** theme for the [Zed](https://zed.dev) editor, with **dark** and **light** variants. The palette is derived directly from the EduSites visual identity (the purple `#6217EC` as the brand color).
 
 ![EduSites](icon.png)
 
-## Variantes
+## Variants
 
-- **EduSites Dark** — fundo `#0F0C16`, ideal para o dia a dia.
-- **EduSites Light** — fundo `#F6F3FC`, para ambientes claros.
+- **EduSites Dark** — background `#0F0C16`, ideal for everyday use.
+- **EduSites Light** — background `#F6F3FC`, for bright environments.
 
-## Instalação
+## Installation
 
-Veja [INSTALL.md](INSTALL.md) para todas as formas de instalar.
+See [INSTALL.md](INSTALL.md) for all the ways to install.
 
-Forma rápida: `Cmd + K` depois `Cmd + T` → selecione **EduSites Dark** ou **EduSites Light**.
+Quick way: `Cmd + K` then `Cmd + T` → select **EduSites Dark** or **EduSites Light**.
 
-## Paleta
+## Palette
 
-| Cor | Dark | Light |
-|-----|------|-------|
-| Marca (accent) | `#6217EC` | `#6217EC` |
-| Fundo | `#0F0C16` | `#F6F3FC` |
-| Texto | `#FFFFFF` | `#000000` |
-| Vermelho | `#FF2E6D` | `#DD275D` |
-| Verde | `#2EFFB6` | `#2AD599` |
-| Laranja | `#EAAE4C` | `#CF902B` |
-| Roxo claro | `#B68CFF` | `#4E11BD` |
+| Color | Dark | Light |
+|-------|------|-------|
+| Brand (accent) | `#6217EC` | `#6217EC` |
+| Background | `#0F0C16` | `#F6F3FC` |
+| Text | `#FFFFFF` | `#000000` |
+| Red | `#FF2E6D` | `#DD275D` |
+| Green | `#2EFFB6` | `#2AD599` |
+| Orange | `#EAAE4C` | `#CF902B` |
+| Light purple | `#B68CFF` | `#4E11BD` |
 
-## Licença
+## License
 
 [MIT](LICENSE) © EduSites

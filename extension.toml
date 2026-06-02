@@ -3,5 +3,5 @@ name = "EduSites"
 version = "1.0.0"
 schema_version = 1
 authors = ["Eduardo <eduardo@lecdt.com>"]
-description = "Tema EduSites para o Zed — variantes escura e clara baseadas na identidade visual da EduSites."
+description = "EduSites theme for Zed — dark and light variants based on the EduSites visual identity."
 repository = "https://github.com/eduardolecdt/edusites-theme-zed"

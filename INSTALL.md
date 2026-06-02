@@ -1,31 +1,31 @@
-# Instalando o EduSites Theme no Zed
+# Installing the EduSites Theme in Zed
 
-## 1. Pela loja de extensões (após publicado)
+## 1. From the extension store (once published)
 
 1. `Cmd + Shift + P` → **zed: extensions**
-2. Pesquise por **EduSites**.
-3. Clique em **Install**.
-4. `Cmd + K` depois `Cmd + T` → selecione **EduSites Dark** ou **EduSites Light**.
+2. Search for **EduSites**.
+3. Click **Install**.
+4. `Cmd + K` then `Cmd + T` → select **EduSites Dark** or **EduSites Light**.
 
-## 2. Como extensão de desenvolvimento (para testar localmente)
+## 2. As a dev extension (for local testing)
 
 1. `Cmd + Shift + P` → **zed: install dev extension**
-2. Selecione a pasta deste repositório.
-3. `Cmd + K` depois `Cmd + T` → selecione o tema.
+2. Select this repository's folder.
+3. `Cmd + K` then `Cmd + T` → select the theme.
 
-## 3. Só o arquivo de tema (teste mais rápido)
+## 3. Theme file only (quickest test)
 
-Copie o JSON para a pasta de temas do Zed:
+Copy the JSON into Zed's themes folder:
 
 ```bash
 cp themes/edusites.json ~/.config/zed/themes/
 ```
 
-O Zed detecta automaticamente. Depois selecione com `Cmd + K` `Cmd + T`.
+Zed detects it automatically. Then select it with `Cmd + K` `Cmd + T`.
 
-## Publicando na loja
+## Publishing to the store
 
-A publicação é feita via Pull Request no repositório
-[`zed-industries/extensions`](https://github.com/zed-industries/extensions),
-adicionando este repositório como submódulo e registrando a extensão no
-`extensions.toml`. O repositório precisa ser **público no GitHub**.
+Publishing is done via a Pull Request to the
+[`zed-industries/extensions`](https://github.com/zed-industries/extensions)
+repository, adding this repository as a submodule and registering the extension
+in `extensions.toml`. The repository must be **public on GitHub**.

@@ -196,11 +196,11 @@
             "color": "#af98e6ff"
           },
           "comment": {
-            "color": "#5e6173ff",
+            "color": "#777b92ff",
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#5e6173ff",
+            "color": "#777b92ff",
             "font_style": "italic"
           },
           "constant": {
@@ -538,11 +538,11 @@
             "color": "#6a4fb0ff"
           },
           "comment": {
-            "color": "#7b748aff",
+            "color": "#726b80ff",
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#7b748aff",
+            "color": "#726b80ff",
             "font_style": "italic"
           },
           "constant": {
